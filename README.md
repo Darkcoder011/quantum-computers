@@ -2,7 +2,6 @@
 
 An interactive educational platform for exploring the fascinating world of quantum computing. This application combines modern web technologies with Google's Gemini AI to create an engaging learning experience about quantum mechanics and quantum information science.
 
-![Quantum Chatbot Screenshot](screenshot.png)
 
 ## 🎯 Why Quantum Computing?
 
